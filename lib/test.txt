@@ -1,0 +1,6 @@
+MyString in count_sentences.py is a class with the name "MyString".                                      [ 16%]
+MyString in count_sentences.py prints "The value must be a string." if not string.                       [ 33%]
+MyString in count_sentences.py returns True if value ends with a period and False otherwise.             [ 50%]
+MyString in count_sentences.py returns True if value ends with a question mark and False otherwise.      [ 66%]
+MyString in count_sentences.py returns True if value ends with an exclamation mark and False otherwise.  [ 83%]
+MyString in count_sentences.py returns the number of sentences in the value.                             [100%]
